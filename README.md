@@ -10,3 +10,5 @@ https://t.me/hillel_dz_17_kitik_bot
 in php-fpm container write 
 
 php artisan bot:update
+
+Telegram Access Token: 1348611632:AAEFx8mqksgcXvXsNE6dHypqPk9rjceQPUQ
